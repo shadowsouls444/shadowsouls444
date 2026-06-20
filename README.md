@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hola, soy Angel 👋
 
-<!--
-**shadowsouls444/shadowsouls444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Desarrollador de software con experiencia creando soluciones desde cero tanto del lado backend como frontend. 
 
-Here are some ideas to get you started:
+## Stack
+**Backend:** Python (Django, Django REST Framework), Java (Spring Boot), Node.js (Express.js)
+**Frameworks:** React, Angular, JavaScript, TypeScript, HTML5, CSS3
+**Bases de datos:** MySQL, Consultas SQL (JOIN, filtros) 
+**Otros:** API REST, JSON, Postman, LLMs API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos destacados
+
+### [Nombre del proyecto 1](enlace-al-repo)
+Breve descripción de qué hace el proyecto y qué tecnologías usaste.
+
+### [Nombre del proyecto 2](enlace-al-repo)
+Breve descripción de qué hace el proyecto y qué tecnologías usaste.
+
+## Contacto
+- LinkedIn: www.linkedin.com/in/angel-david-acuña-meza-3b105122a
