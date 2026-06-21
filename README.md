@@ -1,8 +1,6 @@
 # Hola, soy Angel 👋
 
-💻 Software Developer apasionado por la creación de soluciones escalables y el aprendizaje continuo.
-
-Actualmente me enfoco en el desarrollo **backend**, construcción de **APIs REST** y desarrollo de aplicaciones web full stack.
+💻 Desarrollador de software con enfoque al desarrollo **backend**, construcción de **APIs REST** y desarrollo de aplicaciones web full stack.
 
 ## 🚀 Sobre mí
 
