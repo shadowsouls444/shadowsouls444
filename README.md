@@ -1,6 +1,6 @@
 # Hola, soy Angel 👋
 
-💻 Desarrollador de software con enfoque al desarrollo **backend**, construcción de **APIs REST** y desarrollo de aplicaciones web full stack.
+💻 Desarrollador de software con enfoque al desarrollo **backend**, construcción de **APIs REST** y desarrollo de aplicaciones web **full stack**.
 
 ## 🛠️ Stack
 **Backend:** Java (Spring Boot), Node.js (Express.js), Python (Django, Django REST Framework)
